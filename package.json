@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/oxhak/Lets-Tip-Me#readme",
   "dependencies": {
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "ddos": "^0.2.1",
     "escape-html": "^1.0.3",
